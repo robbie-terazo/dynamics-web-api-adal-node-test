@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "adal-node": "^0.2.3",
+    "dynamics-web-api": "^1.7.5"
+  }
+}
